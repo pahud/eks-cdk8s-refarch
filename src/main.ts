@@ -20,7 +20,7 @@ export class MyStack extends cdk.Stack {
     // create a cdk8s chart and use `cdk8s.App` as the scope.
     const cdk8sApp = new cdk8s.App();
     const myChart = new MyChart(cdk8sApp, 'MyChart', {
-      image: 'pahud/amazon-ecs-flask-sample',
+      image: 'public.ecr.aws/d7p2r8s3/flask-docker-sample',
       region: stack.region,
     });
 

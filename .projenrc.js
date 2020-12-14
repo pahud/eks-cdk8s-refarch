@@ -4,12 +4,12 @@ const {
 } = require('projen');
 
 const project = new AwsCdkTypeScriptApp({
-  cdkVersion: "1.67.0",
-  name: "eks-demo",
+  cdkVersion: '1.67.0',
+  name: 'eks-demo',
   cdkDependencies: [
     '@aws-cdk/aws-ec2',
     '@aws-cdk/aws-eks',
-  ]
+  ],
 });
 
 project.addDependencies({
