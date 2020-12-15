@@ -32,7 +32,7 @@
     "jest": "^26.4.2",
     "jest-junit": "^12",
     "json-schema": "^0.2.5",
-    "projen": "^0.6.10",
+    "projen": "^0.6.12",
     "standard-version": "^9.0.0",
     "ts-jest": "^26.1.0",
     "ts-node": "^9.0.0",
