@@ -1980,9 +1980,9 @@ concat-stream@^2.0.0:
     typedarray "^0.0.6"
 
 constructs@^3.2.0, constructs@^3.2.90:
-  version "3.2.116"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-3.2.116.tgz#cd1bccce86a65234277fd66fb0025ef51a7edb96"
-  integrity sha512-5665UoRJjLlUhnes1eOZ1M1su08j6hiPeasDDuV/umpFUxFQzIh77Ys04q8tQ0fjnG1uKd16izVxGYg7TdRoCQ==
+  version "3.2.117"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-3.2.117.tgz#d6f29d822f99530f4cb5c79089dc2e1bd0d0e9d3"
+  integrity sha512-zYDlALAHWdopUzMGr3aZPlPR8f+OEYr1+QZCkLqi/eyUjbOmlPQ6xwrlDoOaJNgpMf727T9Yo+hokCjIRsZweQ==
 
 contains-path@^0.1.0:
   version "0.1.0"
